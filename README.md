@@ -1,4 +1,4 @@
-# Recommendations Engines -Schoolwork
+# Recommendation Engines 
 This is a project on implementing recommendation engines for articles that users have interacted with on the IBM Watson Studio platform. The recommendation engines covered in this project are Rank Based Recommendation, User-User Collaborative filtering and Singular Value Decomposition(SVD) method.
 
 ## Table of Contents
